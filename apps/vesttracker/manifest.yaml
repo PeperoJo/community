@@ -1,0 +1,8 @@
+---
+id: vest-tracker
+name: Vest Tracker
+summary: Track your shares vesting
+desc: Displays how much your shares has vested.
+author: Joseph Han (PeperoJo)
+fileName: vest_tracker.star
+packageName: vesttracker
